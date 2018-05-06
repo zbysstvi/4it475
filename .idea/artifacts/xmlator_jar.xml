@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xmlator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xmlator_jar</output-path>
+    <root id="archive" name="xmlator.jar">
+      <element id="module-output" name="xmlator" />
+    </root>
+  </artifact>
+</component>
